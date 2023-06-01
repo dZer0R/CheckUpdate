@@ -1,7 +1,7 @@
 {
   "build": "L",
-  "version": "1.2",
+  "version": "1.5",
   "link_update": "",
   "link_home": "",
-  "check": "true"
+  "check": "false"
 }
